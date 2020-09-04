@@ -15,5 +15,294 @@
             "name":"Suraj",
             "email":"suraj@gmail.com"
         }
-    ]
+    ],
+    "products":{
+        "-MG9K8-RVMgLroV1cLwe" : {
+          "benefits" : [ "Fatty acids Omega 3, 6, 7 & 9 maintain good cardiovascular health.", "Vitamin-E and Omega 7 promotes healthy skin, hair and nails.", "Vitamin-C and antioxidants promotes healthy immune system and cellular rejuvenation by eliminating free radicals from the body.", "Vitamin-A enhances eye health for better vision", "Amino acids support healthy digestive system functioning and protien synthesis" ],
+          "category" : "healthCare",
+          "description" : "This juice is prepared with certified wild and organic sea buckthorn berries. This juice contains no added sugar or artificial sweetener, color or flavor and has more than 190 nutritional compounds and has no side effects. This wonderful berry naturally contains carotene, antioxidants, vitamins, minerals, polyphenols and phytosterols along with a number of bioactive nutrients. Sea buckthorn is the richest source of essential fatty acids Omega 3, 6, 7 & 9. This is the richest source of Omega 7 which is a rare and vital component for a healthy heart and skin.",
+          "ingredients" : "Sea buckthorn Juice 99.9%",
+          "name" : "SEA BUCKTHORN JUICE",
+          "pid" : "SBTJUC",
+          "price" : 1600,
+          "quantity" : "750 ml"
+        },
+        "-MG9MopdQC_bZkhTouon" : {
+          "benefits" : [ "It helps in the metabolism of glucose and helps to maintain normal blood sugar level", "It is also used for controlling symptoms of diabetes such as increased thirst, low vision, nervous weakness, weakness of muscles, etc", "It can be used on regular basis to enhance the energy and immune system of our body", "It helps for effective functioning of muscles and bones", "It helps to enhance strength and helps to perform daily activities without many issues.", "It helps rejuvenate the body on a cellular level and improve digestion system", "It helps to manage the blood sugar level along with providing the required essential nutrition to the body." ],
+          "category" : "healthCare",
+          "description" : "This sea buckthorn Diabo juice is prepared with certified organic sea buckthorn berries and also formulated with Kerela extract, jamun extract and punarnav extracts. It provied more than 190 bioactive compounds to our body along with fatty aids omega 3, 6, 7 & 9. According to scientific studies, Kerela helps the pancreas to maintain healthy blood sugar level. Jamun helps control the blood sugar level in our body. the herb Punarnava in ayurveda is very useful in rejuvenating the body and in sugar management.",
+          "ingredients" : "Sea buckthorn Juice 85%, Punarnava Extract 5%, Kerela Extract 5%, Jamun Extract 4.9%",
+          "name" : "SEA BUCKTHORN DIABO JUICE ",
+          "pid" : "DIAJUC",
+          "price" : 1600,
+          "quantity" : "750 ml"
+        },
+        "-MGBVRwTIrCtcVdpItxE" : {
+          "benefits" : [ "It helps in detoxifying the liver, which further prevents the risk of hepatitis, cirrhosis and jaundice.", "It improves digestive system and helps to reduce inflammation of stomach", "Its anti-inflammatory and anti-bacteria properties help in wound healing", "Its anti oxidant and anti cancer properties help to protect us from cancer.", "It helps to boosts immunity on account of its strong anti-oxidant activity which fights off free radial attacks in the system.", "It helps to reduce inflammation in brain which is believed to be the main reason behind Alzheimer's disease.", "It helps in prevention from stomach related diseases such as ulcers and colon cancer.", "It helps to protect us from skin diseases like psoriasis, acne and eczema." ],
+          "category" : "healthCare",
+          "description" : "This sea buckthorn juice is formulated certified organic sea buckthorn berries and with turmeric oil. Turmeric (Curcuma longa root) has been used medicinally for thousands of years for its incredible range of health benefits. This is due to the ability of antioxidants to neutralize and counteract free radicals. Free radicals are chemicals produced by the body during its normal functioning by external factors such as pollution. Free radicals can cause many problems in the body including inflammation and swelling, accelerated cellular ageing, and possibly promoting cancer growth. Turmeric, due to its antioxidant activity, may prevent some of these serious health problems. It is well known that Turmeric in powder form is not very well absorbed, because most of the 'medicinal constituents' are oil-soluble. Turmeric essential oil has been specially extracted using supercritical Co2 extraction by which all of the lipophillic (oil-friendly) compounds are distilled from the Turmeric is now more widely being recognized as an anti-cancer agent.",
+          "ingredients" : "Sea buckthorn juice 94.9%",
+          "name" : "SEA BUCKTHORN WITH TURMERIC OIL",
+          "pid" : "TUROIL",
+          "price" : 1800,
+          "quantity" : "750 ml"
+        },
+        "-MGBYfoYrOyc1i8kOWDH" : {
+          "benefits" : [ "Its strong anti-inflammatory property helps in reducing joint pains.", "It helps in detoxifying the liver, which further prevents the risk of hepatitis, cirrhosis and jaundish.", "It also aids in fat metabolism to help manage the weight along with improving digestion, reducing gas and bloating.", "Its has anti-bacterial properties along with anti-inflammatory and anti-septic properties.", "It helps to boosts immunity on account of its strong anti-oxidant activity which fights off free radial attacks in the system.", "The anti-inflammatory and anti-oxidant properties also help to reduce inflammation in brain which is believed to be the main reason behind Alzheimer's disease.", "It helps in prevention from stomach related diseases such as ulcers and colon cancer.", "Its strong anti-inflammatory property also helps to acts against the development of rheumatoid arthritis and delays it." ],
+          "category" : "healthCare",
+          "description" : "It forms an integral part of Indian cuisine. But, apart from being  used as an ingredient in cooking, turmeric offers many health benefits. Turmeric contains more than 300 antioxidants, which makes turmeric a powerful healer. Turmeric is now more widely being recognized as an anti-cancer agent. Turmeric has a compound called curcumin that  possesses anti-inflammatory and antioxidant properties. It helps reduce pain and inflammation, two common symptoms of arthritis, osteoarthritis and rheumatoid arthritis.",
+          "ingredients" : "Turmeric juice 97%, Guggul Extract 2.9%",
+          "name" : "FRESH TURMERIC RHIZOME JUICE WITH GUGGUL",
+          "pid" : "RZMJUC",
+          "price" : 700,
+          "quantity" : "250 ml"
+        },
+        "-MGBb_VNnC6Jf32mNKvw" : {
+          "benefits" : [ "Provides a rich supply of antioxidants and other nutrients.", "Helps to rejuvenate the respiratory system", "Helps to strengthen the immune system of the body to prevent diseases.", "Helps against invading bacteria, virus and fungal infections.", "Helps to diminish symptoms of flu, fever, cold & cough.", "Helps to purify blood", "Helps to eliminate toxins from the body", "Helps to enhance energy and increase stamina.", "Helps to promote healthy metabolism", "Helps to relieve stress and anxiety.", "Helps to relieve inflammation.", "Helps to protect against radiation and other environmental aggressors.", "Helps to improve digestion, and helpful in acidity, constipation, stomach pain and abdominal pain.", "Helps for diabetes and sugar management.", "It has a beneficial effect in heart disease and the weakness resulting therein.", "Helps increase W.B.C.s (White Blood Cells) in blood which prevents infection and cancer.", "Helps to control blood pressure and helps prevent heart diseases.", "Helps to treat kidney and urinary problems.", "Helps to treat skin disease like leucoderma,  leprosy, etc.", "Helpful in De-Addiction of alcohol, nicotine and other addictions." ],
+          "category" : "healthCare",
+          "description" : "Panch Tulsi Drops is a blend of five species of best species of best quality Certified Himalayan Tulsi.\nTulsi plant is venerated plant and Hindus worship it in the morning and evening. It is also known all over the world as Holy Basil. In Sanskrit, tulsi means 'incomparable'. Holy basil is also known as \"The Queen of Herbs\". In India, the herb Tulsi also called Holi basil has been widely known for its health promoting and medicinal value for thousands of years. Tulsi is one of the best medicinal herbs searched till date. It has endless miraculous and medicinal  properties. It has been a revered plant and has an important place in Indian history for thousands of years.",
+          "ingredients" : "Shyam Tulsi  19%, Rama Tulsi  19%, Sursa Tulsi  19%, Nimbu Tulsi 19%, Van Tulsi 19%",
+          "name" : "PANCH TULSI DROPS",
+          "pid" : "PANTUL",
+          "price" : 400,
+          "quantity" : "20 ml"
+        },
+        "-MGEHqBH7HyVoaZ0msh9" : {
+          "benefits" : [ "Sea buckthorn - This wild organic berry contains 190 vitamins, minerals, bio active compounds, omega 3, 6, rare omega 7 and 9, essential amino acids, lipids, tannins, and anti oxidants vital for good health, immunity and cellular rejuvenation.", "Rhododendron - Rhododendron in known to possess properties with various benefits helpful for the heart, detoxification, inflammation, bronchitis and has high oxidant properties as well. It is also an excellent summer cooler." ],
+          "category" : "healthFood",
+          "description" : "The need for a natural, tasty cooling dring - power packed with anti-oxidants to combat Pollution in air, food and water and at the same time provide natural vitamins, mineral, amino acids, and essential fatty acids essential for overall growth, bones, and muscles led to this special formulation based on sea buckthorn and Rhododendron essential for boosting growth, maintaining overall health and beauty and takes care of all the above problems. Sea buckthorn is well known to positively impact health. It contains all the Omega 7. Rhododendron used in this formulation has been used since ancient times in ayurveda to boost immunity and health. This drink naturally cools in ayurveda to boost immunity and health. This drink naturally cools in summer and rejuvenates and boosts growth and stamina for all ages.",
+          "ingredients" : "Sea buckthorn Pulp 34.9%, Rhododendron Pulp 10%.",
+          "name" : "SEA BUCKTHORN BURANSH DRINK ",
+          "pid" : "BURASD",
+          "price" : 295,
+          "quantity" : "250 ml"
+        },
+        "-MGEXiayBCYZEGg3rKbg" : {
+          "benefits" : [ "Unsaturated fatty acid content improves hear health and promotes healthy cholesterol level.", "Eases respiratory disorders in asthma patients.", "Supplementary use of it helps soothe inflammation internally", "Anti-spasmodic nature relieves frequent spasms and pain", "Suggested in nasal congestion, headache, and allergies.", "Promotes healthy immune system." ],
+          "category" : "healthCare",
+          "description" : "Also known as the 'Black Cumin' seed oil, it is extracted from the seeds of Nigella Sativa, which is a plant native to the South and Southwest Asia. Its benefits have been recognized by the Ancient Egyptians and today it is used for unsaturated fatty acids, saturated fatty acids, and antioxidants lipids. Regular use of these capsules helps promote digestive, cardiovascular, respiratory and immune health.",
+          "ingredients" : "Black Seed Oil 500 mg",
+          "name" : "BLACK SEED OIL CAPSULE",
+          "pid" : "HPBSOC",
+          "price" : 1800,
+          "quantity" : "60 Capsules"
+        },
+        "-MGEZ2YXts-aVNOEIdQL" : {
+          "benefits" : [ "Regular use promotes production of breast milk.", "Useful for diabetic patients.", "Reduces bad cholesterol in the body", "Helpful in curing erectile dysfunction, hernia and other male health issues.", "Relived menopause symptoms and triglyceride.", "Promotes sexual stimulation." ],
+          "category" : "healthCare",
+          "description" : "Fenugreek oil has been associated with multiple benefits. It is used to control diabetes, promote breast milk, reduce cholesterol, aid digestive health and as an appetite suppressor. Loaded with omega fatty acids, saponins, trigonelline, phytic acid, it is effective in slowing down free radical damage to the cells Men and women can also use our fenugreek oil capsules to promote overall reproductive health.",
+          "ingredients" : "Fenugreek Oil 500 mg",
+          "name" : "FENUGREEK OIL CAPSULE ",
+          "pid" : "HPFGOC",
+          "price" : 1800,
+          "quantity" : "60 Capsules"
+        },
+        "-MGEavp2Fw6l5YvBPRmv" : {
+          "benefits" : [ "It helps to reduce inflammation in the internal uterine and vaginal walls and create a healthy reproductive system", "It helps to increase hemoglobin, raise stamina, helps in better sleep and helps reduce pain or heaviness in legs", "It helps to stimulate the endometrium (inner membrane of the uterus), normalized tone of uterine musculature and improves blood circulation.", "It has a antimicrobial and antifungal property that helps to combat the bacteria responsible for leucorrhea and pelvic inflammatory disease (PID).", "Its anti-inflammatory, analgesic and antispasmodic properties helps to alleviate pain and other symptoms associated with PID and leucorrhea." ],
+          "category" : "healthCare",
+          "description" : "Leucorrhea is a common gynecological disorder associated with white vaginal discharge and resultant pain & burning sensations. Pus-cells and foul odours due to bacterial infection are responsible for such a problem. Leucosash is a herbal combination which helps reduce pain, inflammation and helps control the white discharge and bacterial infection. Leucosash is a highly effective and truly dependable in menstrual disorders. It helps restore menstrual cycle & flow with perfect harmony & rhytm by its stimulating effects on the endometrium & the ovaries. Leucosash is a powerful non hormonal herbal product of choice in irregular menstrual disorders.",
+          "ingredients" : "Ashok Chhal 200 mg, Lodhar 50 mg, Dhataki 50 mg, Udumber 30 mg, Gokshur 30 mg, Gambhaari 20 mg, Patla 30 mg, Khadir 20 mg, Harida 20 mg, Vidang 20 mg, Palash 10 mg, Lauh Bhasm 10 mg, Gandhak Rasayan 10 mg.",
+          "name" : "LEUCOSASH CAPSULES",
+          "pid" : "LSCUP",
+          "price" : 850,
+          "quantity" : "60 Capsules"
+        },
+        "-MGEc3pClR1MdSbX7DoC" : {
+          "category" : "healthCare",
+          "description" : "The selection of herbs in Orthosash is based upon a long standing use as a traditional solution to promote joint health, control natural inflammatory responses within the body and maintain healthy nerve and tissue function. Orthosash capsule is formulated with many herbs.",
+          "ingredients" : "Withania Somniferra (Ashwagandha) Vitex Nirgundo (Nirgundi), zingiber Officinale (Ginger) Boerhavia Diffusa (Punarnava), Curcuma Amada (Amba Haldi) Colchicum Luteum (Suranjan), Pluchea Lanceolata (Rasna)",
+          "name" : "ORTHOSASH CAPSULES ",
+          "pid" : "OSCPUP",
+          "price" : 850,
+          "quantity" : "60 Capsules"
+        },
+        "-MGEdZcMFBAyRpp2AEg8" : {
+          "category" : "healthFood",
+          "description" : "This exotic drink is the Blend of CTC Tea with certified and wild and organic Himalayan Sea buckthorn leaves which will delight and refresh your senses.\nToday, tea has become a health drink instead of a normal drink. Sea buckthorn leaves have anti oxidants and flaonoids, which protects our body cells and tissues. Sea buckthorn leaves also contain protective nutrients including carotenoids, flavonoids, antioxidants, vitamins, minerals, polyphenols and phytosterols.",
+          "ingredients" : "",
+          "name" : "SEABUCK TEA ",
+          "pid" : "SBTTEA",
+          "price" : 350,
+          "quantity" : "500 gm"
+        },
+        "-MGEgh3oTxFnp9d-KTTf" : {
+          "benefits" : [ "It is the one and only that contains three anti-oxidants: tocopherols, tocotrienols, and oryzanol having special natural therapeutic properties.", "It helps in increasing the good cholesterol by lowering the bad cholesterol and also controls hypertension.", "It helps to increase efficiency of insulin so it is very edible for diabetic people.", "It helps to relieve acidity, gas and other gastrointestinal troubles.", "It is rich in vitamin E along with anti thrombotic and anti cancer properties. It is good skin nutrient, good for skin texture and has anti wrinkle properties.", "It is consumed in lesser quantities than most other oils as well because it is less viscous which means that it does not stick to food", "It leaved less smoke because it has high smoke point, which is pitched at 460 F/238 C and which makes it perfect for stir frying and deep frying. Another important quality is that it maintains its nutritive quality even at high temperature." ],
+          "category" : "healthFood",
+          "description" : "BioBran Rice bran oil is a nutritious edible oil produced from the oily layer of brown rice. It is physically refined through a patented process without using any harsh chemicals to retain Oryzanol. International research reports indicate many health benefits of Oryzanol. BioBran is rich in Oryzanol, very low in saturates and free from trans-fatty acids, and thus it is good for health. Our Biobran oil provides Omega 3 and Omega 6 as part of PUFA. Biobran Rice bran oil possesses the finest properties of all in in frying mediums.",
+          "ingredients" : "",
+          "name" : "BIOBRAN RICE BRAN OIL",
+          "pid" : "BIORIC",
+          "price" : 220,
+          "quantity" : "1 Litre"
+        },
+        "-MGEibc5lFC93ajzNxn0" : {
+          "benefits" : [ "Gently cleanse your hands", "Kill germs and revitalises hands", "Cleans and disinfects skin", "Prevents skin dryness", "Keeps skin supple" ],
+          "category" : "personalCare",
+          "description" : "Your health is in your clean hands. Biosash hand wash uses natural ingredients like neem oil, tulsi oil, turmeric extract, sea buckthorn extract which",
+          "ingredients" : "",
+          "name" : "HAND WASH ",
+          "pid" : "HNDWSH",
+          "price" : 150,
+          "quantity" : "250 ml"
+        },
+        "-MGEjggXW3-Ux5Mw4HQR" : {
+          "category" : "oralCare",
+          "description" : "Dentosash Toothgel is a unique formulation of Himalayan sea buckthorn oil and natural herbal extracts that provide long lasting and complete oral care to gums & teeth Dentosash not only cleans teeth but also bring freshness in breath and helps fight effectively against bad bacteria. The use of Dentosash Toothgel is a good choice for everyone especially for them who are suffering from toothaches, bleeding gums, pyorrhea, cavities, sensitivity, gingivitis and bad breath. Dentosash toothgel is 100% vegetarian.",
+          "ingredients" : "",
+          "name" : "DENTOSASH TOOTHGEL WITH SEA BUCKTHORN OIL",
+          "pid" : "DTGLUP",
+          "price" : 199,
+          "quantity" : "150 gm"
+        },
+        "-MGLe1ReQjcdWWnwJbXK" : {
+          "benefits" : [ "Seabuckthorn Seed Oil :- It is rich With 190 bioactive compounds, powerful anti-oxidants, fatty acids and Omegas 3, 6, 9 and the rare Omega 7 Which boosts the Skins natural collagen and keeps the Skin looking youthful, gives soft and glowing Skin, away wrinkles and guards against environmental Stress and makes you 100k young from the Outside.", "Soyabean Oil: - Soybean oil is rich in poly-unsaturated fats, omega-6 proteins and amino acid Linoleic acid. Delays aging & prevents skin problems soyabean oils rich in Vitamin E that is a lipid and an antioxidant. It helps keep the cell membrane intact. This ensures that the cell membrane and skin act as barrier to harmful radicals, thus delaying aging and preventing skin problems.", "Sesame Oil :- It contains linoleic acid that gives both antibacterial and anti-inflammatory properties for sesame oil. They are also rich in minerals like copper, manganese, calcium and magnesium. The oil is rich in antioxidants; hence they are easily absorbed into the skin, nourish it from deep inside and promote skin softness.", "Olive Oil :-  Olive Oil contains three major antioxidants; Vitamin E, polyphenols, and Antioxidants, when topically applied, may help protect the skin from premature skin aging. Vitamin E partly accounts for the anti-aging benefits Of Olive Oil because it helps restore skin smoothness and protects against ultraviolet light. Hydroxytyrosol, a rather rare compound found in olive oil, also prevents free radical damage to the skin", "Coconut Oil:- It's naturally antibacterial and antifungal, coconut oil for skin is an excellent moisturizer, it can penetrate hair better than other oils.", "Lemon Oil :- Lemon oil is a good remedy for restoring the luster of dull skin. It is an astringent and detoxifying in nature and rejuvenates sagging or tired-looking skin. Its antiseptic properties help in treating pimples and various Other skin disorders. Lemon is also recommended for reducing excessive Oil On the skin.", "Orange Oil :- Orange essential oil is antiseptic and anti-inflammatory which makes it an ideal ingredient in your skin and hair routine. This oil isn't just for acne-prone skin though: It's been shown to increase the ability to absorb vitamin C, collagen production, and blood flow, all of which are essential for anti-aging. Topical application of Orange oil helps in enhancing the synthesis of collagen. It also eases the inflammation and hence is a blessing for oily skin. It improves the now of blood to the skin and helps in clearing the clogged pores, The antioxidant nature of this oil helps to lower the signs of premature aging." ],
+          "category" : "personalCare",
+          "description" : "This handmade natural seabuckthorn soap enriched with organic sea buckthorn berry oil, sea buckthorn seed oil Coconut Oil, Palm Oil, Olive Oil, Sunflower Oil, Sesame Oil, Lemon Oil, Soyabean Oil and Orange Oil. This Natural Seabuckthorn Soap Contains, Seabuckthorn Berry Oil: - which is used topically; it's a great natural cleanser and exfoliator. It can also help heal burns, cuts, wounds, suburn, rashes, and other types of skin damage. using sea buckthorn berry oil daily helps slow down the Signs Of aging by nourishing the tissues in your Skin and body.",
+          "key_ingrediants" : "",
+          "name" : "NATURAL SEABUCKTHORN BATHING BAR (SOAP) ",
+          "pid" : "NSBBSP",
+          "price" : 95,
+          "quantity" : "100 gm"
+        },
+        "-MGLf5BRCBlaBweBPzwi" : {
+          "category" : "personalCare",
+          "description" : "This Handmade Multani Mitti Soap is made with Multani Mitti (Fullers Earth) A natural wonder for your skin, the benefits of multani mitti are truly incredible owing to its skin healing, improving and nourishing properties. Whether you have dry, dull or acne-prone skin, multani mitti is a sure fire skin savior, and Lemon Oil which is good remedy for restoring the luster of dull skin, It is an astringent and detoxifying in nature and rejuvenates sagging or tired-looking skin. Its antiseptic propertes help in treating pimples and various other skin disorders Lemon is also recommended for reducing excessive oil on the skin, and Neem Oil which contains phytochemicals Azadirachtin and triterpenoid_ These two phytochemicals are the major contributors to neem oil therapeutic and medicinal value. Otherthan sterols like campesterol, beta•sitosterol, and stigmasterol, pure neem oil is loaded with fatty acids and alkaloids. Neem oil deep moisturizes and repairs skin dryness. Neem has antifungal properties.",
+          "key_ingrediants" : "",
+          "name" : "MULTANI MITTI BATHING BAR (SOAP) ",
+          "pid" : "MMBRSP",
+          "price" : 85,
+          "quantity" : "100 gm"
+        },
+        "-MGLgDCwtVJFFCdsRMcO" : {
+          "benefits" : [ "enhancing your skin'S ability to retain moisture,", "against Sun damage", "protecting against toxins and Oxidative da mage", "boosts collagen production", "restoring youthful resilience and to ageing Skin cells", "Skin cell membranes", "repairing Skin" ],
+          "category" : "personalCare",
+          "description" : "This Seabuckthorn Oil is infused with the goodness of Seabuckthorn, It's Antibacterial, and Nourishing as it contain Omega 3, 6, 7, & 9 and Vitamin A. D & E. Oue to its anti- oxidant, anti-inflammatory and essential fatty acids presentin it. it helps to improve the health ofthe skin. It is rich with 190 bioactive compounds, powerful anti-oxidants, fatty acids and Omegas 3, 6, 9 and the rare Omega 7 which boosts the skins natural collagen and keeps the skin looking youthful, gives soft and glowing skin, smoothes wrinkles and guards against environmental stress, rejwenates your body from within and makes you look young from the outside",
+          "key_ingrediants" : "",
+          "name" : "SEABUCKTHORN OIL",
+          "pid" : "SBTOIL",
+          "price" : 999,
+          "quantity" : "10 ml"
+        },
+        "-MGLhS-gODjG3HdSnvpE" : {
+          "category" : "personalCare",
+          "description" : "This soap contains Seabuckthorn oil rich in Omega 3, 6 , 9 and the rare omega 7 which is excellent for skin. Thus the Skin gets deep nourishment from nutrients, which keeps the skin beautiful and healthy and boosts the skins natural collagen keeping it soft , supple and youthful looking.",
+          "key_ingrediants" : "",
+          "name" : "SEA BUCKTHORN PULP BATHING BAR (SOAP)",
+          "pid" : "SBTSOP",
+          "price" : 85,
+          "quantity" : "100 gm"
+        },
+        "-MGLhf2aenyDc8jKitIa" : {
+          "category" : "personalCare",
+          "description" : "Neem and Tulsi essential Oils have anti bacterial properties and thus Skin gets antiseptic and anti bacterial effects. Regular use Of this soap protects the skin from infections.",
+          "key_ingrediants" : "",
+          "name" : "NEEM & TULSI BATHING BAR (SOAP)",
+          "pid" : "NTBSOP",
+          "price" : 85,
+          "quantity" : "100 gm"
+        },
+        "-MGLhv4iEkNEl9RGPaZ_" : {
+          "category" : "personalCare",
+          "description" : "This soap with almond oil and vit E nourishes the skin and moisturizes skin and keeps your skin healthy.",
+          "key_ingrediants" : "",
+          "name" : "HONEY & ALMOND BATHING BAR (SOAP)",
+          "pid" : "HABSOP",
+          "price" : 85,
+          "quantity" : "100 gm"
+        },
+        "-MGLiD6-9vXV1eQdWZ7b" : {
+          "category" : "personalCare",
+          "description" : "Turmeric has anti bacterial and anti fungal effect on the skin and this soap is excellent for maintaining skin health.",
+          "key_ingrediants" : "",
+          "name" : "SANDAL & TURMERIC BATHING BAR (SOAP)",
+          "pid" : "SNTSOP",
+          "price" : 90,
+          "quantity" : "100 gm"
+        },
+        "-MGLic57U3ogR6ScYRg0" : {
+          "category" : "personalCare",
+          "description" : "The antibacterial and fragrant properties of lemon grass oil ensures skin gets nourished and protected.",
+          "key_ingrediants" : "",
+          "name" : "LEMONGRASS BATHING BAR (SOAP) ",
+          "pid" : "LMGSOP",
+          "price" : 85,
+          "quantity" : "100 gm"
+        },
+        "-MGLioFvt0k8If7ZyG1M" : {
+          "category" : "personalCare",
+          "description" : "This soap is extremely gentle and Skin gets nourished, which keeps the skin beautiful and healthy.",
+          "key_ingrediants" : "",
+          "name" : "ROSE BATHING BAR (SOAP) ",
+          "pid" : "ROSSOP",
+          "price" : 85,
+          "quantity" : "100 gm"
+        },
+        "-MGLjRpkVIFPIW7HgDZz" : {
+          "category" : "personalCare",
+          "description" : "It's an Old classic fragrance for men for that washed and clean look. It contains fresh and fragrant lemon oil.",
+          "key_ingrediants" : "",
+          "name" : "CITRUS LEMON BODY WASH",
+          "pid" : "CTLMBW",
+          "price" : 240,
+          "quantity" : "200 ml"
+        },
+        "-MGLji7flzmNw74RexkP" : {
+          "category" : "personalCare",
+          "description" : "This body wash hydrates and nourishes skin and is a classic Old favorite With men.",
+          "key_ingrediants" : "",
+          "name" : "HYDRATING SEA MINERAL BODY WASH",
+          "pid" : "HYSMBW",
+          "price" : 240,
+          "quantity" : "200 ml"
+        },
+        "-MGLk0osDq5PWv5HxrSV" : {
+          "category" : "personalCare",
+          "description" : "This excellent shower gel formulated with natural ingredients like strawberry essential oil, aloevera extract and sea buckthorn extract which nourishes your skin and keeps the skin fragrant, healthy and beautiful.",
+          "key_ingrediants" : "",
+          "name" : "STRAWBERRY SHOWER GEL",
+          "pid" : "STRWSG",
+          "price" : 350,
+          "quantity" : "200 ml"
+        },
+        "-MGLnfsS41B5nwO3Fu2X" : {
+          "benefits" : [ "ALOE VERA EXTRACT :- It prcwides a protective layer to the skin which helps retain moisture. Aloe is also rich in antioxidants and minerals which can help speed healing. Its antibacterial, antiseptic and anti-inflammatory properties protect the skin from bacteria and other pathogens which lead to infection and inflammation. It contains substances — gibberellins and polysaccharides — that stimulate the growth of new cells, while glycoproteins reduce the inflammation and redness.", "NEEM EXTRACT:- It contains phytochemicals Azadirachtin and triterpenoid. These two phytochemicals are the major contributors to neem's therapeutic and medicinal value. Other than sterols like campesterol, beta-sitosterol, and Stigmasterol, pure neem is loaded With fatty acids and alkaloids, Neem Extract deeply moisturizes and repairs Skin dryness, Neem has antifungal properties.", "NIACINAMIDE :- Also known as vitamin 83 and nicotinic acid, Niacinamide is a very effective skin-restoring ingredient that Offers multiple benefits for aging Skin, Among these benefits is the ability to Visibly improve appearance of enlarged pores, uneven skin tone, fine lines, dullness, and a weakened skin surface." ],
+          "category" : "personalCare",
+          "description" : "A face wash made with Extracts of Aloe Vera and Neem completely cleanses and gives clear skin, leaves the skin moisturized, soft and supple, This Face Wash contains Aloe vera extract, neem extract and Niacinamide",
+          "key_ingrediants" : "",
+          "name" : "ALOE VERA AND NEEM FACE WASH",
+          "pid" : "AVFWSH",
+          "price" : 210,
+          "quantity" : "100 ml"
+        },
+        "-MGLogNZnFyawmN8kCW-" : {
+          "benefits" : [ "NEEM LEAF EXTRACT :- It contains phytochemicals Azadirachtin and triterpenoid. These two phytochem icals are the major contributors to neem's therapeutic and medicinal value. Other than sterols like campesterol, beta-sitosterol, and stigmasterol, pure neem is loaded with fatty acids and alkaloids. Neem Extract deeply moisturizes and repairs skin dryness. Neem has antifungal properties.", "TULSI OIL :- It is antibacterial, anti-inflammatory, antioxidant, and antidepressive_ With so many beneficial qualities, also helps in maintaining the health of the skin and hair. Tulsi oil contains vitamin C that boosts skin cell! metabolism. It maintains the skin collagen, which is responsiblefor dermis layer and its elasticity." ],
+          "category" : "personalCare",
+          "description" : "A face wash made with Neem leaf extract and Tulsi oil, which completely moisturizes and protect skin from environmental damage, it Cleanses and gives Clear Skin, leaves the Skin moisturized, soft and supple.",
+          "key_ingrediants" : "",
+          "name" : "NEEM TULSI FACE WASH",
+          "pid" : "NTFWSH",
+          "price" : 210,
+          "quantity" : "100 ml"
+        },
+        "-MGLpcZBg0P6MctfirsH" : {
+          "benefits" : [ "TULSI EXTRACT :- Tulsi extract cease the growth of harmful bacteria while also purifying the skin. Tulsi extract helps kill bacteria and pull impurities to the surface. It reduces the appearance of dark spots and acne scars, and it removes blackheads. Tu Isi extract conta ins vitamin C that boosts skin cells metabolism. It maintains the skin collagen, which is responsible for dermis layer and its elasticity.", "HALDI EXTRACT :- The antibacterial properties Of Haldi extract aid in acne treatment. And anti-inflammatory properties treat the inflammation caused by pimples. The bleaching properties of Haldi can help treat skin pigmentation. Turmericcan also keep the skin free from infection.", "NIACINAMIDE :- Also known as vitamin 83 and nicotinic acid, Niacinamide is a very effective skin-restoring ingredient that offers multiple benefits for aging skin. Among these benefits the ability to visibly improve the appearance of enlarged pores, uneven skin tone, fine lines, dullness, and a weakened skin surface." ],
+          "category" : "personalCare",
+          "description" : "A face wash made With Extracts Of and Haldi, Which completely Cleanses and gives Clear Skin, leaves the Skin moisturized, soft and supple.",
+          "key_ingrediants" : "",
+          "name" : "TULSI AND HALDI FACE WASH",
+          "pid" : "THFWSH",
+          "price" : 210,
+          "quantity" : "100 ml"
+        },
+        "-MGLq1NkVuyvUcKCxP6H" : {
+          "category" : "personalCare",
+          "description" : "This face wash is formulated With Sea buckthorn and Other herbs, Which keeps your Skin moisturized, soft It protects skin from wrinkles and gives elasticitytoskin making it softand supple.",
+          "key_ingrediants" : "",
+          "name" : "SEA BUCKTHORN FACE WASH",
+          "pid" : "SBTFWS",
+          "price" : 210,
+          "quantity" : "100 ml"
+        }
+      }
+      
 }
