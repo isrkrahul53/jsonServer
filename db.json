@@ -16,7 +16,7 @@
             "email":"suraj@gmail.com"
         }
     ],
-    "products":{
+    "products":[{
         "-MG9K8-RVMgLroV1cLwe" : {
           "benefits" : [ "Fatty acids Omega 3, 6, 7 & 9 maintain good cardiovascular health.", "Vitamin-E and Omega 7 promotes healthy skin, hair and nails.", "Vitamin-C and antioxidants promotes healthy immune system and cellular rejuvenation by eliminating free radicals from the body.", "Vitamin-A enhances eye health for better vision", "Amino acids support healthy digestive system functioning and protien synthesis" ],
           "category" : "healthCare",
@@ -303,6 +303,6 @@
           "price" : 210,
           "quantity" : "100 ml"
         }
-      }
+      }]
       
 }
